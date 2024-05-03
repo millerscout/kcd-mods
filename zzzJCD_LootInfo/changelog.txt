@@ -1,0 +1,48 @@
+- 1.8.0 Adapted to Game-Version 1.9.5
+
+- 1.7.0 Adapted to Game-Version 1.8.1
+		fixed: Localization polish - change word "pusty" to "pusto" - reported by @Wiwra, thanks
+		fixed: prevent the mounting of horses. - reported by @NiftyPower and @Cava1712, thanks
+		fixed (hopefully): 
+		Containers and NPCs seem to keep their searched tag even after respawning. - reported by @FESilencer, thanks
+
+- 1.6.0 Adapted to Game-Version 1.7.1
+
+- 1.5.1 Now the mod can display "(dead)" or "(unconscious)" on the npc name.
+
+- 1.5.0 Now the mod can also show "empty" on the "loot/open/steal" button when the content is empty.
+		Adapted to Game-Version 1.6.2
+
+- 1.4.0 Now the mod is compatible with DLC "From The Ashes".
+		This fixes the bug "no writing in the ledger" from FLC "From The Ashes".
+		Adapted to Game-Version 1.6
+
+- 1.3.4 adapted to Game-Version 1.5
+
+- 1.3.3 adapted to Game-Version 1.4.3
+
+- 1.3.2 adapted to Game-Version 1.4.2
+		
+- 1.3.1 fixed wrong translated words of polish language
+
+- 1.3.0 added loot info on npc's (male, female)
+
+- 1.2.0 added loot info on animals (Hare, Cow etc.)
+
+- 1.1.1 fixed wrong translated words of czech language
+
+- 1.1.0 adapted to Game-Version 1.4.1
+
+- 1.0.3 added Mod depency CLAM
+        added chineses translation
+        added czech translation
+        added polish translation
+        changed description 
+  
+- 1.0.2 added spanish translation
+        added italian translation
+        added russian translation
+		
+- 1.0.1 added french translation + added support for upcoming patch 1.4
+
+- 1.0.0 Initial Release
